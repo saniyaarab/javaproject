@@ -1,0 +1,12 @@
+2016/04/24 04:55:21 - FMain.windowOpened(FMain.java:233)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:59)
+	net.ucanaccess.jdbc.UcanaccessDriver.connect(UcanaccessDriver.java:204)
+given file does not exist: C:\Users\Saniya\workspace\Homework17\Database\TeamsAndPlayers4.accdb
+2016/04/24 04:55:35 - FMain.windowOpened(FMain.java:233)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:59)
+	net.ucanaccess.jdbc.UcanaccessDriver.connect(UcanaccessDriver.java:204)
+given file does not exist: C:\Users\Saniya\workspace\Homework17\Database\TeamsAndPlayers4.accdb
+2016/04/24 04:55:59 - FMain.windowOpened(FMain.java:233)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:59)
+	net.ucanaccess.jdbc.UcanaccessDriver.connect(UcanaccessDriver.java:204)
+given file does not exist: C:\Users\Saniya\workspace\Homework17\Database\TeamsAndPlayers4.accdb
